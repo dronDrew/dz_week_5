@@ -139,7 +139,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Array_tamplate_2.h" />
-    <ClInclude Include="Array_template.h" />
     <ClInclude Include="dependies.h" />
     <ClInclude Include="Line.h" />
     <ClInclude Include="Police_DB.h" />

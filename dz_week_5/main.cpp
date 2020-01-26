@@ -1,7 +1,6 @@
 #include"dependies.h"
 #include"Stack_list.h"
 #include"Line.h"
-//#include"Array_template.h"
 #include"Array_tamplate_2.h"
 #include"Police_DB.h"
 
