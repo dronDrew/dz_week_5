@@ -1,0 +1,14 @@
+
+Number of car :5566
+seat balt
+Number of car :6699
+No tickets
+Number of car :5798
+No tickets
+Number of car :3227
+No tickets
+Number of car :1132
+No tickets
+Number of car :2288
+red light
+sight STOP
